@@ -1,6 +1,6 @@
 #!/bin/tcsh 
 
-# -- By chb@mz.co.kr -- # 
+# -- By liverpools@gmail.com -- # 
 # -- Managing services with systemd : https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/chap-Managing_Services_with_systemd.html-- # 
 
 # -- Systemd Unit Files Locations -- # 
