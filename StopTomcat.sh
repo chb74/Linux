@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# -- By chb@mz.co.kr -- #
+# -- By liverpools@gmail.com -- #
 # -- On Mar 08, 2018 -- #
 # -- Comments : This shell script takes care of starting and stopping
 #               the Tomcat services
